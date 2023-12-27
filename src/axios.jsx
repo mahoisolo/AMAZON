@@ -1,5 +1,5 @@
 import axios from "axios"
 const instance = axios.create({
-    baseURL: "https://amazons-clone.vercel.app/",
+    baseURL: "https://amazon-backenddd.onrender.com",
 })
 export default instance
